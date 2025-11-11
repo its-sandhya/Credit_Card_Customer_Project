@@ -21,6 +21,9 @@ This project analyzes credit card transactions and customer data to provide acti
 - data/ → CSV files
 - docs/DAX_formulas.pdf → All DAX formulas used in the project
 - dashboards
+- python script to connect to SQL
+- sql/ → SQL scripts for uploading & updating data
+- powerbi/ → PBIX files for dashboards
 # Highlights
 - Week-on-week analysis for credit card transactions & customers
 - Seamless integration of new data
