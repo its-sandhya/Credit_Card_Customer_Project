@@ -19,9 +19,8 @@ This project analyzes credit card transactions and customer data to provide acti
 5. Use DAX formulas for all key calculations (e.g., WoW revenue, customer count, age and income groups).
 # Repository Contents
 - data/ → CSV files
-- sql/ → SQL scripts for uploading & updating data
-- powerbi/ → PBIX files for dashboards
 - docs/DAX_formulas.pdf → All DAX formulas used in the project
+- dashboards
 # Highlights
 - Week-on-week analysis for credit card transactions & customers
 - Seamless integration of new data
